@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-//second var for comment change
+//second var for comment, now change
 func main() {
 	var n float64
 	fmt.Scan(&n)
