@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// second unused comment
 // my first task on golang2
 func main() {
 	var n float64
