@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+//unused comment
 //second var for comment, now change2
 func main() {
 	var n float64
