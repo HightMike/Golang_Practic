@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// my first task on golang
+// my first task on golang2
 func main() {
 	var n float64
 	fmt.Scan(&n)
