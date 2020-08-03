@@ -5,6 +5,7 @@ import (
 )
 
 //second var for comment, now change2
+//comment in third branch
 func main() {
 	var n float64
 	fmt.Scan(&n)
