@@ -6,6 +6,7 @@ import (
 
 // second unused comment
 // my first task on golang2
+//sdfsdf
 func main() {
 	var n float64
 	fmt.Scan(&n)
